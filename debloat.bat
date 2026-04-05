@@ -1,4 +1,4 @@
-:: EkaLScript max fps-
+:: Rx&Source max fps-
 @echo off
 :: Check if the script is running as admin
 openfiles >nul 2>&1
